@@ -13,6 +13,7 @@
   <img align="center" alt="Mendes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mendes-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mendes-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Mendes-VERILOG" height="30" width="40" src="https://raw.githubusercontent.com/file-icons/source/master/svg/Verilog.svg?sanitize=true">
   <img align="right" alt="Mendes-gif" src="https://media.discordapp.net/attachments/885924523025780760/885924603136970802/Webp.net-gifmaker.gif?width=180&height=180">
 </div>
 
