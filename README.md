@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Vinícius!
 
 - 💻 Estudando C e Jscript.
-- 👨‍💻 Estudante de Ciência da computação, atualmente estou cursando o 6° semestre.
+- 👨‍💻 Estudante de Ciência da computação, atualmente estou cursando o 5° semestre.
 
  <div>
   <a href="https://github.com/vinicmendes">
