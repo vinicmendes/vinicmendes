@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Vinícius!
 
-- 👨‍💻 Estudante de Ciência da Computação, 5° período.
+- 👨‍💻 Estudante de Ciência da Computação.
 
  <div>
   <a href="https://github.com/vinicmendes">
