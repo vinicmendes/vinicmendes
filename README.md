@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Vinícius!
 
 - 👨‍💻 Estudante de Ciência da Computação.
-- 💻 Estagiário em Desenvolvimento de Softwares
+- 💻 Engenheiro de software
 
  <div>
   <a href="https://github.com/vinicmendes">
