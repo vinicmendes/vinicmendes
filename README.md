@@ -8,7 +8,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinicmendes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<img align="right" height="150" src="https://matteus.dev/wp-content/uploads/giphy.gif"  />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -34,6 +33,7 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/vinicmendes/vinicmendes/output/snake.svg" alt="Snake animation" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicmendes)](https://github.com/vinicmendes/github-readme-stats)
 
 </div>
 
