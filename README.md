@@ -32,9 +32,6 @@
   
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/vinicmendes/vinicmendes/output/snake.svg" alt="Snake animation" />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicmendes)](https://github.com/vinicmendes/github-readme-stats)
-
 </div>
 
  
