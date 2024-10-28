@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Vinícius!
 
-- 👨‍💻 Estudante de Ciência da Computação.
+- 👨‍💻 Bacharel em Ciência da Computação.
 - 💻 Engenheiro de software
 
 <div align="center">
